@@ -34,6 +34,7 @@ namespace Hello
         {
             for(int num = 0; num < howManyTimes; num++)
             {
+                // Say hello
                 Console.WriteLine("Hello " + name);
             }
         }
